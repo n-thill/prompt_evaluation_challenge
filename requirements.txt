@@ -1,0 +1,3 @@
+ipykernel
+jupyter  # required for kaggle dataset for some reason
+kagglehub[pandas-datasets]
