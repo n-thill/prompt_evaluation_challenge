@@ -1,0 +1,6 @@
+services:
+  prompt_eval:
+    build: microservices/prompt_eval
+    container_name: prompt_eval
+    ports:
+      - "8000:8000"
